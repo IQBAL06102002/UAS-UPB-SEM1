@@ -58,3 +58,5 @@ yang ada)
 5. KELUAR
 ![](11.png)
 
+# TERIMAKASIH
+

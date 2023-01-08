@@ -20,7 +20,7 @@ yang ada)
 
 
 # CODE
-
-
+1. Pertama - tama buat packaging dan modul seperti gambar berikut :
+[!](1.png)
 
 # OUTPUT

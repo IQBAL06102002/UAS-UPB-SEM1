@@ -48,5 +48,8 @@
 # LINK YOUTUBE
 https://www.youtube.com/watch?v=oEZlMjVUSYU 
 
+# PDF 
+![](UAS SEM1.pdf)
+
 # TERIMAKASIH
 
